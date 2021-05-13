@@ -1,6 +1,6 @@
 {
     "navigation": {
-        "name": "John Doe",
+        "name": "Qiqi Zheng",
         "menu": [
             {
                 "text": "Home",
@@ -14,12 +14,12 @@
             },
             {
                 "text": "Github",
-                "url": "https://github.com/",
+                "url": "https://github.com/qiqicodes",
                 "target":"_blank"
             },
             {
                 "text": "LinkedIn",
-                "url": "https://www.linkedin.com//",
+                "url": "https://www.linkedin.com/in/qiqiz/",
                 "target":"_blank"
             }
         ]
